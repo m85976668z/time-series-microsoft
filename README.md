@@ -11,4 +11,4 @@ The data link: [Data](https://github.com/m85976668z/time-series-microsoft/blob/m
 
 # Code:
 
-Download the Jupyter Notebook File: [ARMA](https://github.com/m85976668z/time-series-microsoft/blob/master.ARMA.ipynb)
+Download the Jupyter Notebook File: [ARMA](https://github.com/m85976668z/time-series-microsoft/blob/master/ARMA.ipynb)
